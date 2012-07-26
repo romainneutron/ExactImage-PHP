@@ -3,6 +3,8 @@
 As ExactImage bindings for PHP are not well documented, here's an attempt to
 share an API doc.
 
+Read http://lickmychip.com/2012/07/26/playing-with-exactimage/
+
 ##Functions
 
 ```php
